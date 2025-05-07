@@ -22,8 +22,8 @@
 			"*.json",
 			"*.jsonc",
 			"*.md",
-			"yaml",
-			"yml"
+			"*.yaml",
+			"*.yml"
 		]
 	}
 }

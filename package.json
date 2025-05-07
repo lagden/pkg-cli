@@ -1,29 +1,29 @@
 {
-  "name": "@tadashi/pkg-cli",
-  "version": "1.0.0",
-  "description": "Update your package.json with mastery.",
-  "keywords": [
-    "update",
-    "package",
-    "CLI"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lagden/pkg-cli.git"
-  },
-  "bin": {
-    "pkg-check": "src/cli.js"
-  },
-  "type": "module",
-  "author": "Thiago Lagden",
-  "license": "MIT",
-  "files": [
-    "src",
-    ".npmrc",
-    "LICENSE",
-    "README.md"
-  ],
-  "dependencies": {
-    "@jsr/tadashi__pkg-cli": "1.0.4"
-  }
+	"name": "@tadashi/pkg-cli",
+	"version": "1.1.0",
+	"description": "Update your package.json with mastery.",
+	"keywords": [
+		"update",
+		"package",
+		"CLI"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lagden/pkg-cli.git"
+	},
+	"bin": {
+		"pkg-check": "src/cli.js"
+	},
+	"type": "module",
+	"author": "Thiago Lagden",
+	"license": "MIT",
+	"files": [
+		"src",
+		".npmrc",
+		"LICENSE",
+		"README.md"
+	],
+	"dependencies": {
+		"@jsr/tadashi__pkg-cli": "1.0.5"
+	}
 }
