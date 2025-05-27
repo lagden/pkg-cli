@@ -16,3 +16,4 @@ resource
 _cleanup
 _init
 vite.config.js.timestamp-*
+.gitconfig
