@@ -1,6 +1,6 @@
 {
 	"name": "@tadashi/pkg-cli",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Update your package.json with mastery.",
 	"keywords": [
 		"update",
@@ -24,6 +24,6 @@
 		"README.md"
 	],
 	"dependencies": {
-		"@jsr/tadashi__pkg-cli": "1.0.5"
+		"@tadashi/pkg-cli": "npm:@jsr/tadashi__pkg-cli@1.0.5"
 	}
 }
